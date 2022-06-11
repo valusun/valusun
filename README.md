@@ -14,4 +14,4 @@
 - 📫 How to reach me ...  
   - [Twitter](https://twitter.com/valusun)  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valusun)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valusun&theme=dark&show_icons=true)](https://github.com/valusun/github-readme-stats)
