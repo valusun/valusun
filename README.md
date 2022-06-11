@@ -14,4 +14,3 @@
 - 📫 How to reach me ...  
   - [Twitter](https://twitter.com/valusun)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valusun&theme=dark&show_icons=true)
