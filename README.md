@@ -2,10 +2,9 @@
 
 ## About Me ...
 - 💼 Software Engineer
-- ❤ Python!
+- ❤ Python, TypeScript
 - 👀 Interests ...
     - Algorithm
     - Data Structures  
-    - Robotic Process Automation  
     - And More...(Interested In Everything) 
 - 🕊 [Twitter](https://twitter.com/valusun) 
